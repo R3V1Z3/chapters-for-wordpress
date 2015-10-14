@@ -1,0 +1,18 @@
+Plugin Name: Chapters for WordPress
+Author: David (Incsub)
+
+Change Log:
+----------------------------------------------------------------------
+
+0.5
+----------------------------------------------------------------------
+- Added anchor links to chapter list and accompanying JavaScript.
+
+0.4
+----------------------------------------------------------------------
+- Chapter list and chapter total shortcodes added.
+- Plugin rewritten to wrap content with chapter-based divs.
+
+0.3
+----------------------------------------------------------------------
+- Initial outline completed, basic shortcode in place.
